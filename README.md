@@ -1,1 +1,1 @@
-Juptyer notebook da IBM com os seguintes tópicos de tarefas: Importing Data Sets, Data Wrangling, Exploratory Data Analysis, Model Development, Model Evaluation and Refinement.
+Projeto final do curso Data Analysis with Python do programa de 12 cursos IBM Data Science Professional
